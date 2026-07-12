@@ -72,6 +72,10 @@ apis:
       - type: GitHub
         url: https://github.com/dotnet/aspnetcore
 common:
+  - type: VulnerabilityDisclosure
+    url: security/microsoft-dotnet-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/microsoft-dotnet-domain-security.yml
   - type: Portal
     url: https://dotnet.microsoft.com/
   - type: GitHubOrganization
