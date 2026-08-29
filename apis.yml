@@ -6,6 +6,17 @@ description: >-
   APIs and services. The .NET API browser provides comprehensive reference
   documentation across the .NET Runtime, ASP.NET Core, Entity Framework, and
   Azure SDK libraries.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
