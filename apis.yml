@@ -95,6 +95,8 @@ apis:
       - type: GitHub
         url: https://github.com/dotnet/aspnetcore
 common:
+  - type: Website
+    url: https://www.microsoft.com/
   - type: VulnerabilityDisclosure
     url: security/microsoft-dotnet-vulnerability-disclosure.yml
   - type: DomainSecurity
@@ -120,3 +122,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: microsoft
+x-relationship: product
